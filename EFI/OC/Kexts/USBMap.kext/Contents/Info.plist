@@ -50,77 +50,71 @@
 				<dict>
 					<key>HS01</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						AQAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS02</key>
 					<dict>
-						<key>#port</key>
-						<data>
-						AgAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-					</dict>
-					<key>HS03</key>
-					<dict>
-						<key>Comment</key>
-						<string>Right_USB_20</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
+						<data>
+						AgAAAA==
+						</data>
+					</dict>
+					<key>HS03</key>
+					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>#port</key>
 						<data>
 						AwAAAA==
 						</data>
 					</dict>
 					<key>HS04</key>
 					<dict>
-						<key>Comment</key>
-						<string>Left_USB_20</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
-						<key>port</key>
+						<key>#port</key>
 						<data>
 						BAAAAA==
 						</data>
 					</dict>
 					<key>HS05</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
 						<data>
 						BQAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS06</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						BgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS07</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						BwAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS08</key>
 					<dict>
-						<key>Comment</key>
-						<string>Webcam</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						CAAAAA==
@@ -128,19 +122,17 @@
 					</dict>
 					<key>HS09</key>
 					<dict>
-						<key>#port</key>
+						<key>UsbConnector</key>
+						<integer>3</integer>
+						<key>port</key>
 						<data>
 						CQAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS10</key>
 					<dict>
-						<key>Comment</key>
-						<string>Bluetooth</string>
 						<key>UsbConnector</key>
-						<integer>255</integer>
+						<integer>3</integer>
 						<key>port</key>
 						<data>
 						CgAAAA==
@@ -148,44 +140,42 @@
 					</dict>
 					<key>HS11</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						CwAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>HS12</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						DAAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS01</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						DQAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS02</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						DgAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS03</key>
 					<dict>
-						<key>Comment</key>
-						<string>Right_USB_30</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -195,8 +185,6 @@
 					</dict>
 					<key>SS04</key>
 					<dict>
-						<key>Comment</key>
-						<string>Left_USB_30</string>
 						<key>UsbConnector</key>
 						<integer>3</integer>
 						<key>port</key>
@@ -206,73 +194,20 @@
 					</dict>
 					<key>SS05</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						EQAAAA==
 						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
 					</dict>
 					<key>SS06</key>
 					<dict>
+						<key>UsbConnector</key>
+						<integer>3</integer>
 						<key>#port</key>
 						<data>
 						EgAAAA==
-						</data>
-						<key>UsbConnector</key>
-						<integer>3</integer>
-					</dict>
-				</dict>
-			</dict>
-			<key>model</key>
-			<string>MacBookPro16,3</string>
-		</dict>
-		<key>MacBookPro16,3-XHC-1</key>
-		<dict>
-			<key>CFBundleIdentifier</key>
-			<string>com.apple.driver.AppleUSBHostMergeProperties</string>
-			<key>IOClass</key>
-			<string>AppleUSBHostMergeProperties</string>
-			<key>IOParentMatch</key>
-			<dict>
-				<key>IOPropertyMatch</key>
-				<dict>
-					<key>pcidebug</key>
-					<string>7:0:0</string>
-				</dict>
-			</dict>
-			<key>IOProviderClass</key>
-			<string>AppleUSBXHCIPCI</string>
-			<key>IOProviderMergeProperties</key>
-			<dict>
-				<key>kUSBMuxEnabled</key>
-				<true/>
-				<key>port-count</key>
-				<data>
-				BAAAAA==
-				</data>
-				<key>ports</key>
-				<dict>
-					<key>SS01</key>
-					<dict>
-						<key>Comment</key>
-						<string>Type_C_1</string>
-						<key>UsbConnector</key>
-						<integer>9</integer>
-						<key>port</key>
-						<data>
-						AwAAAA==
-						</data>
-					</dict>
-					<key>SS02</key>
-					<dict>
-						<key>Comment</key>
-						<string>Type_C_2</string>
-						<key>UsbConnector</key>
-						<integer>9</integer>
-						<key>port</key>
-						<data>
-						BAAAAA==
 						</data>
 					</dict>
 				</dict>
