@@ -1,0 +1,3 @@
+https://github.com/Vins95/DELL-Inspiron-7391-Hackintosh-EFI-/blob/main/EFI/OC/config.plist
+
+
